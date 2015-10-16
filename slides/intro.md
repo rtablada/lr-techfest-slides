@@ -1,7 +1,7 @@
 # Refactoring Towards Web Components
 
-## Ryan Tablada (@ryantablada)
-
+## Ryan Tablada ([@ryantablada](http://twitter.com/ryantablada))
+### [Code Examples](https://github.com/rtablada/refactoring-web-components-app)
 
 
 <!-- .slide: data-background="url(img/tiy.svg) no-repeat center" data-background-size="contain"-->
@@ -95,6 +95,7 @@
 
 
 # "LIVE CODING"
+## [Code Examples](https://github.com/rtablada/refactoring-web-components-app)
 
 
 
@@ -107,5 +108,6 @@
 
 
 # Questions?
-## Ryan Tablada (@ryantablada)
+## Ryan Tablada ([@ryantablada](http://twitter.com/ryantablada))
+## [Code Examples](https://github.com/rtablada/refactoring-web-components-app)
 ## Iron Yard
